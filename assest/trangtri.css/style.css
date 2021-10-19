@@ -7,7 +7,7 @@
 }
 
 #main {
-    background-image: url('/assest/img/all/Cute\ Heart\ Pattern\ wallpaper\ 1600x1200\ 27954.jpg');
+    background-image: url('assest/img/all/heart.jpg');
     background-position: center;
     background-repeat: repeat;
     background-size: 1000px; 
@@ -20,7 +20,7 @@
 
 #slider {
     padding-top: 50%;
-    background: url('/assest/img/slider/banner.jpg') top center / cover no-repeat;     
+    background: url('assest/img/slider/banner.jpg') top center / cover no-repeat;     
 }
 #content {
     padding: 80px 16px;
